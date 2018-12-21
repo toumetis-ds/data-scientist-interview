@@ -5,7 +5,7 @@
 The objective of this exercise is to design a model that can classify the operational mode of a set of industrial machines. 
 
 Each machine was instrumented with a set of sensors and the data from these sensors has been collected and stored in a time series data base. 
-Additionally the operational mode has been labelled be an expert for each timestep. A csv dump of the database including the expert labels is avaialble to support this task
+Additionally the operational mode has been labelled be an expert for each timestep for each machine. A csv dump of the database including the expert labels is avaialble to support this task
 
 ## Requirements
 1. Design a model that can classify the operational mode of a machine based on its time series data.
@@ -13,6 +13,7 @@ Additionally the operational mode has been labelled be an expert for each timest
 3. Provide the code used to do exploritory data analysis, process the data, fit a model & determne & report its performance in a jupyter notebook. 
 4. The analysis should be carried out using python.
 5. Use a deep neural network type model for the classifier
+6. Be prepared to discuss in detail your approach to solving this problem and explain your results. 
 
 
 
