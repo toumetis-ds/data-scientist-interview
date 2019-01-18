@@ -28,4 +28,4 @@ Use the dataset in the `data/` directory. The **operational_mode** column is the
 
 ## Submission
 
-Send the notebook and any instructions/other artefacts required to make running of the notebook repeatable to johnw@toumetis.com a day before you're 2nd interview date. Please don't submit a pull request or other condidates will be able to copy you're answer!
+Send the notebook and any instructions/other artefacts required to make running of the notebook repeatable to admin@toumetis.com a day before you're 2nd interview date. Please don't submit a pull request or other condidates will be able to copy you're answer!
