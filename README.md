@@ -5,11 +5,11 @@
 
 ## Overview
 
-The objective of this exercise is to design a model that can classify the operational mode of a set of industrial machines. 
+A fleet of 36 industrial machines, of the same type, have been instrumented with a set of sensors. Each machine was then operated across several different operational modes. The data from the sensors, has been collected and stored in a time series data base. Sequences of the data have then been analysed by an expert and labeled with the correct operating mode.
 
-A fleet of 36 machines of the same type has been instrumented with a set of sensors. Each machine was then operated across several different modes and the data from the sensors, along with the tis operating mod,e has been collected and stored in a time series data base. 
+The objective of this exercise is to design a model that can correctly classify the operational mode of a machine based purely on its sensor data.
 
-A csv dump of the database including the expert labels has been made avaialble to support this task
+A csv dump of the database including the operating mode labels has been made avaialble to support this task.
 
 ## Requirements
 
@@ -20,12 +20,10 @@ A csv dump of the database including the expert labels has been made avaialble t
 5. Use a deep neural network type model for the classifier
 6. Be prepared to discuss in detail your approach to solving this problem and explain your results. 
 
-
-
 ## Data
 
 Use the dataset in the `data/` directory. The **operational_mode** column is the target variable.
 
 ## Submission
 
-Send the notebook and any instructions/other artefacts required to make running of the notebook repeatable to admin@toumetis.com a day before you're 2nd interview date. Please don't submit a pull request or other condidates will be able to copy you're answer!
+Send the notebook and any instructions/other artefacts required to make running of the notebook repeatable to admin@toumetis.com a day before you're 2nd interview date. Please don't submit a pull request or other candidates will be able to copy you're answer!
