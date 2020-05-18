@@ -26,4 +26,4 @@ Use the dataset in the `data/` directory. The **operational_mode** column is the
 
 ## Submission
 
-Send the notebook and any instructions/other artefacts required to make running of the notebook repeatable to Toumetis as instructed. Please don't submit a pull request or other candidates will be able to copy your answer!
+Send the notebook and any instructions/other artefacts required (including a requirements.txt file) to make running of the notebook repeatable to Toumetis as instructed. Please don't submit a pull request or other candidates will be able to copy your answer!
