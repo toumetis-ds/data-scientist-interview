@@ -9,7 +9,7 @@ A fleet of 36 industrial machines, of the same type, have been instrumented with
 
 The objective of this exercise is to design a model that can correctly classify the operational mode of a machine based purely on its sensor data.
 
-A csv dump of the database including the operating mode labels has been made avaialble to support this task.
+A csv dump of the database including the operating mode labels has been made available to support this task.
 
 ## Requirements
 
